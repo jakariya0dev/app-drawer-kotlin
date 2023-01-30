@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="drawer_navigation">Drawer Navigation</string>
+    <string name="todo">TODO</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="developed_by_google">Developed by Google</string>
+    <string name="menu_one">Menu One</string>
+    <string name="menu_three">Menu Three</string>
+    <string name="menu_four">Menu Three</string>
+    <string name="another_menu">Another Menu</string>
+    <string name="four_menu">Four Menu</string>
+    <string name="five_menu">Five Menu</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
